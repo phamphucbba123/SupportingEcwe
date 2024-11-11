@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  font-family: "Helvetica";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+div .card {
+  /* Font & Text */
+  font-family: Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-decoration: none solid rgb(5, 5, 5);
+  text-align: left;
+  text-indent: 0px;
+  text-transform: none;
+  vertical-align: baseline;
+  white-space: normal;
+  word-spacing: 0px;
+
+  /* Color & Background */
+  background-attachment: scroll;
+  background-color: rgb(255, 255, 255);
+  background-image: none;
+  background-position: 0% 0%;
+  background-repeat: repeat;
+  color: rgb(5, 5, 5);
+
+  /* Box */
+  height: 1037.28px;
+  width: 550px;
+  border: 0px none rgb(5, 5, 5);
+  border-top: 0px none rgb(5, 5, 5);
+  border-right: 0px none rgb(5, 5, 5);
+  border-bottom: 0px none rgb(5, 5, 5);
+  border-left: 0px none rgb(5, 5, 5);
+  margin: 60px 0px 30px;
+  padding: 25px 16px 0px;
+  max-height: none;
+  min-height: 0px;
+  max-width: none;
+  min-width: 0px;
+
+  /* Positioning */
+  position: relative;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  float: none;
+  display: flex;
+  clear: none;
+  z-index: auto;
+
+  /* List */
+  list-style-image: none;
+  list-style-type: disc;
+  list-style-position: outside;
+
+  /* Table */
+  border-collapse: separate;
+  border-spacing: 0px 0px;
+  caption-side: top;
+  empty-cells: show;
+  table-layout: auto;
+
+  /* Miscellaneous */
+  overflow: visible;
+  cursor: auto;
+  visibility: visible;
+
+  /* Effects */
+  transform: none;
+  transition: all 0s ease 0s;
+  outline: rgb(255, 0, 0) dashed 1px;
+  outline-offset: 0px;
+  box-sizing: border-box;
+  resize: none;
+  text-shadow: none;
+  text-overflow: clip;
+  word-wrap: break-word;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 2px 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
